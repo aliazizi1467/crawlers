@@ -20,5 +20,4 @@ jobs:
 
       - name: 🚀 Run crawler_3
         run: |
-          python crawler_3.py
-          add crawler_3 workflow
+          python crawler_3.py 
